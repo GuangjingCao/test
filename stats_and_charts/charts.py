@@ -372,3 +372,7 @@ class Charts:
 
         # plt.show()
         self.main_window.canvas.draw()
+
+
+## jasndiabfksbfljsbkjvfbadsfkjbaskfjnsakdjfbsadkjfbsdlkjfbs;adkjfbksjdbf
+## sadfkbaslkjdaskljdbaskjdalkjsdnbaslkjdhalskjdhasdaljkhaslkjdbaskjdb
